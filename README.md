@@ -1,6 +1,6 @@
 ### 
 <h1 align="center">Pursuit Fellow 9.4</h1>
-<h3 align="center">...Learning Code...Growing with Code...Making Code...</h3>
+<h3 align="center">... Learning Code ... Growing with Code ... Making Code ...</h3>
 
 - 🔭 I’m currently working on **Javascript projects.**
 
