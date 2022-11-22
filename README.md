@@ -1,5 +1,5 @@
 ### 
-<h1 align="center">Jacqueline Pasaoa, Pursuit Fellow 9.4</h1>
+<h1 align="center">Pursuit Fellow 9.4</h1>
 <h3 align="center">FSW Developer</h3>
 
 - 🔭 I’m currently working on **Javascript projects.**
