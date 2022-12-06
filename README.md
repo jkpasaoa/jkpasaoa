@@ -1,5 +1,5 @@
 ### 
-<h1 align="left"> 🪄🌀 Pursuit Fellow 9.4 💻 🎊</h1>
+<h1 align="left"> Pursuit Fellow 9.4 🪄🌀</h1>
 <p>
 <img align="center" src="https://raw.githubusercontent.com/jkpasaoa/images/main/mochi.gif?token=GHSAT0AAAAAAB37RNPHDSE5BL7QCHTXFKLKY4PUMVA" width="200" height="200" /> </p>
 <ul align="left">
