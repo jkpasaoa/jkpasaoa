@@ -1,12 +1,10 @@
 ### 
-<h1 align="center">Pursuit Fellow 9.4</h1>
-<h3 align="center">... Learning Code ... Growing with Code ... Making Code ...</h3>
-
-- 🔭 I’m currently working on **Javascript projects.**
-
-- 🌱 I’m currently learning **HTML, CSS**
-
-- 💬 Ask me about **Exploring NYC**
+<h1 align="left">Pursuit Fellow 9.4</h1>
+<ul align="left">
+  <p>👩‍💻 I’m currently working on Javascript projects
+<p>💬 I’m currently learning HTML, CSS
+  <p>🌃 Ask me about Exploring NYC
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,9 +14,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-[![Jacqueline’s github stats](https://github-readme-stats.vercel.app/api?username=jkpasaoa)](https://github.com/jkpasaoa)
+![Jacqueline's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkpasaoa&show_icons=true&theme=blue-green)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkpasaoa&layout=compact)](https://github.com/jkpasaoa)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkpasaoa&layout=compact&theme=vision-friendly-dark)](https://github.com/jkpasaoa/github-readme-stats)
+
+
 
 
 
