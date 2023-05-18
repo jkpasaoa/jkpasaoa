@@ -33,5 +33,5 @@
 <img alt="VSCode" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
   
 ![Jacqueline's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkpasaoa&show_icons=true&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkpasaoa&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkpasaoa&layout=donut&show_icons=true&theme=blue-green)
 </p>
