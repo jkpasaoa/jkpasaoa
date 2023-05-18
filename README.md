@@ -31,40 +31,7 @@
 <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
 
 <img alt="VSCode" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
-
-
+  
+![Jacqueline's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkpasaoa&show_icons=true&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkpasaoa&layout=donut)
 </p>
-
-
-<!-- ![Jacqueline's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkpasaoa&show_icons=true&theme=blue-green)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkpasaoa&layout=compact&theme=vision-friendly-dark)](https://github.com/jkpasaoa/github-readme-stats) -->
-
-<h3 align="left">Connect with me 📲 💻 📬 :</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jacquelinepasaoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacquelinepasaoa" height="30" width="40" /></a>
-</p>
-
-
-
-
-
-
-
-
-
-<!--
-**jkpasaoa/jkpasaoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
