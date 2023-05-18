@@ -5,10 +5,10 @@
 <img align="center" src="https://raw.githubusercontent.com/jkpasaoa/images/main/mochi.gif?token=GHSAT0AAAAAAB37RNPHDSE5BL7QCHTXFKLKY4PUMVA" width="200" height="200" /> </p>
 <ul align="left">
   <h3>About Me!</h3>
-  <p>👩‍💻 I’m currently exploring and working on Javascript and React projects.
+  <p>👩‍💻 I’m currently exploring and working on ReactJS, Express, SQL, and CSS bootstrap within my own projects.
     <p> 💼 I'm on my way of currently becoming a full-fledged software engineer.
-<p>💬 I’m currently learning React, Bootstrap, and Redux.
-  <p>🌃 Ask me about Exploring NYC
+<p>💬 I’m currently learning SQL, Redux, and ReactJS.
+  <p>🌃 Ask me about Exploring NYC and traveling to different places.
     </ul>
 
 
