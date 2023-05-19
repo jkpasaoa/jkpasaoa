@@ -1,6 +1,6 @@
 <h1 align="left"> Pursuit ~ Software Engineering Fellow 9.4 🪄🌀</h1>
 <p>
-<img align="center" src="https://github.com/jkpasaoa/images/blob/68ef1bda73cb1e038fdca67676b700f178011a49/github%20banner2.png" /> </p>
+<!-- <img align="center" src="https://github.com/jkpasaoa/images/blob/68ef1bda73cb1e038fdca67676b700f178011a49/github%20banner2.png" /> </p> -->
   Hi! I'm Jacqueline, a software engineering fellow from New York City 🍎🗽🚖 🏙️.
   <p>
 <img align="center" src="https://raw.githubusercontent.com/jkpasaoa/images/main/mochi.gif?token=GHSAT0AAAAAAB37RNPHDSE5BL7QCHTXFKLKY4PUMVA" width="200" height="200" /> </p>
