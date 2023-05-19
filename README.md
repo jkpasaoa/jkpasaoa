@@ -1,14 +1,14 @@
-<h1 align="left"> Pursuit Fellow 9.4 🪄🌀</h1>
+<h1 align="left"> Pursuit ~ Software Engineering Fellow 9.4 🪄🌀</h1>
 <p>
-  Hi! I'm Jacqueline, a software engineering student from New York City 🍎🗽🚖 🏙️.
+  Hi! I'm Jacqueline, a software engineering fellow from New York City 🍎🗽🚖 🏙️.
   <p>
 <img align="center" src="https://raw.githubusercontent.com/jkpasaoa/images/main/mochi.gif?token=GHSAT0AAAAAAB37RNPHDSE5BL7QCHTXFKLKY4PUMVA" width="200" height="200" /> </p>
 <ul align="left">
   <h3>About Me!</h3>
-  <p>👩‍💻 I’m currently exploring and working on ReactJS, Express, SQL, and CSS bootstrap within my own projects.
-    <p> 💼 I'm on my way of currently becoming a full-fledged software engineer.
-<p>💬 I’m currently learning SQL, Redux, and ReactJS.
-  <p>🌃 Ask me about Exploring NYC and traveling to different places.
+  <p>🌱 I’m currently exploring and working on ReactJS, Express, SQL, and CSS bootstrap within my own projects.
+    <p>🎓 I'm on my way of currently becoming a full-fledged software engineer.
+<p>👩🏻‍💻 I’m currently learning SQL, Redux, and ReactJS.
+  <p>🛫 Ask me about Exploring NYC and traveling to different places.
     </ul>
 
 
