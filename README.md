@@ -10,6 +10,7 @@
     <p>🎓 I'm on my way of currently becoming a full-fledged software engineer.
 <p>👩🏻‍💻 I’m currently learning SQL, Redux, and ReactJS.
   <p>🛫 Ask me about Exploring NYC and traveling to different places.
+    <p>📫   Feel free to ping me on <a href="https://www.linkedin.com/in/jacquelinepasaoa" rel="nofollow">LinkedIn</a></p>
     </ul>
 
 
