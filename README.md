@@ -1,4 +1,4 @@
-<h1 align="left"> Software Engineering 🪄🌀</h1>
+<h1 align="left"> Software Engineer 🪄🌀</h1>
 <p>
 <!-- <img align="center" src="https://github.com/jkpasaoa/images/blob/68ef1bda73cb1e038fdca67676b700f178011a49/github%20banner2.png" /> </p> -->
   Hi! I'm Jacqueline, a software engineer undergoing a fellowship with Pursuit.
