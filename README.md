@@ -1,15 +1,16 @@
-<h1 align="left"> Software Engineer 🪄🌀</h1>
+<h1 align="left"> Full Stack Software Engineer 🪄🌀</h1>
 <p>
 <!-- <img align="center" src="https://github.com/jkpasaoa/images/blob/68ef1bda73cb1e038fdca67676b700f178011a49/github%20banner2.png" /> </p> -->
-  Hi! I'm Jacqueline, a software engineer undergoing a fellowship with Pursuit.
-  I'm from New York City 🍎🗽🚖 🏙️.
+  Hi! I'm Jacqueline. I'm from New York City 🍎🗽🚖 🏙️
+  <br />
+  I'm a passionate full-stack software engineer with expertise in CSS, JavaScript, Tailwind CSS, React, and NPM. Proficient in designing and deploying user-friendly web applications. Committed to solving complex problems and building innovative solutions. Excited to take on new challenges and contribute to exciting projects.
   <p>
 <img align="center" src="https://raw.githubusercontent.com/jkpasaoa/images/main/mochi.gif?token=GHSAT0AAAAAAB37RNPHDSE5BL7QCHTXFKLKY4PUMVA" width="200" height="200" /> </p>
 <ul align="left">
   <h3>A Few Facts About Me!</h3>
-  <p>🌱 I’m currently exploring and working on ReactJS, Express, SQL, and CSS bootstrap within my own projects.
-    <p>🎓 I'm on my way being more knowledgeable as a software engineer.
-<p>👩🏻‍💻 I’m currently learning SQL, Redux, and ReactJS.
+  <p>🌱 I’m currently exploring and working on ReactJS, Express, Tailwind, and CSS bootstrap within my own projects.
+    <p>🎓 I'm on my way developing apps of my own and enhancing previous ones I've completed.
+<p>👩🏻‍💻 I’m currently learning Python, MongoDB, and PostGreSQL.
   <p>🛫 Ask me about Exploring NYC and traveling to different places.
     <p>📫 Feel free to ping me on <a href="https://www.linkedin.com/in/jacquelinepasaoa" rel="nofollow">LinkedIn</a></p>
     <p>❓📝 ⛏ Check out my CodeWars profile <img src="https://www.codewars.com/users/jkpasaoa/badges/small" alt="CodeWars" style="max-width: 100%;"></p>
