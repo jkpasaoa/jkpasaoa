@@ -12,8 +12,12 @@
     <p>🎓 I'm on my way developing apps of my own and enhancing previous ones I've completed.
 <p>👩🏻‍💻 I’m currently learning Python, MongoDB, and PostGreSQL.
   <p>🛫 Ask me about Exploring NYC and traveling to different places.
-    <p>📫 Feel free to ping me on ----->&ensp;&ensp;<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />&ensp;&ensp;<-----
-<!--       <a href="https://www.linkedin.com/in/jacquelinepasaoa" rel="nofollow">LinkedIn</a> -->
+   <p>📫 Feel free to ping me on ----->&ensp;&ensp;
+<a href="https://www.linkedin.com/in/jacquelinepasaoa" target="_blank" rel="nofollow">
+  <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&ensp;&ensp;<-----
+</p>
     </p>
     <p>❓📝 ⛏ Check out my CodeWars profile <img src="https://www.codewars.com/users/jkpasaoa/badges/small" alt="CodeWars" style="max-width: 100%;"></p>
 </ul>
