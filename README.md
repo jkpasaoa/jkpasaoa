@@ -7,10 +7,18 @@
   </p>
   
   # Few Facts About Me 📝
+  <p>
   🌱 I’m currently exploring and working on ReactJS, Express, Tailwind, and CSS bootstrap within my own projects.
+  </p>
+  <p>
   🎓 I'm on my way developing apps of my own and enhancing previous ones I've completed.
+  </p>
+  <p>
   👩🏻‍💻 I’m currently learning Python, MongoDB, and PostGreSQL.
+  </p>
+  <p>
   🛫 Ask me about Exploring NYC and traveling to different places.
+  </p>
     
  ## 🌐 Socials
   📫 Feel free to ping me on my
